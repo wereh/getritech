@@ -1,0 +1,2 @@
+# getritech
+getrictech
